@@ -1,93 +1,72 @@
-# 03 JavaScript: Password Generator
+# Random Password Generator
+#### Table of Contents
+* [About](#About)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Contribution](#Contribution)
+* [License](#License)
 
-## Your Task
+# About
+The Random Password Generator was created to generate a password for users based off their response to the prompts and confirms. The password generator was created to meet the following conditions:
 
-This week’s homework requires you to create an application that an employee can use to generate a random password based on criteria they’ve selected by modifying starter code. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.
-
-The password can include special characters. If you’re unfamiliar with these, see this [list of Password Special Characters from the OWASP Foundation](https://www.owasp.org/index.php/Password_special_characters).
-
-## User Story
-
-```
-AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
-```
-
-## Acceptance Criteria
-
-```
-**GIVEN I need a new, secure password
-WHEN I click the button to generate a password
-THEN I am presented with a series of prompts for password criteria
+```WHEN the user clicks the button to generate a password
+THEN they are presented with a series of prompts for password criteria
 WHEN prompted for password criteria
-THEN I select which criteria to include in the password
+THEN they select which criteria to include in the password
 WHEN prompted for the length of the password
-THEN I choose a length of at least 8 characters and no more than 128 characters**
+THEN they choose a length of at least 8 characters and no more than 128 characters**
 WHEN prompted for character types to include in the password
-THEN I choose lowercase, uppercase, numeric, and/or special characters
-WHEN I answer each prompt
-THEN my input should be validated and at least one character type should be selected
+THEN they choose lowercase, uppercase, numeric, and/or special characters
+WHEN they answer each prompt
+THEN their input should be validated and at least one character type should be selected
 WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
+THEN the password is either displayed in an alert or written to the page.
 ```
 
-## Mock-Up
+This source code is available to everyone under the standard [MIT License](https://github.com/microsoft/vscode/blob/master/LICENSE.txt).
+![Screen shot of the Password Generator created ](file:///C:\Users\lexc2\OneDrive\Desktop\Homework\Password-Generator\Assets\password.jpg)
 
-The following image shows the web application's appearance and functionality:
+# Installation
+To install please visit [my repository](https://github.com/lexcraw4d/Password-Generator) and look at the uploaded files via GitHub Deployment.
 
-![password generator demo](./Assets/03-javascript-homework-demo.png)
+# Usage
+##### Visual Studio Code
+![](file:///C:\Users\lexc2\OneDrive\Desktop\Homework\Password-Generator\Assets\VSC.jpg)
+Visual Studio Code (VS) was used to edit and improve the functionality of the given Password Generator. 
 
-## Grading Requirements
+[Visual Studio Code](https://code.visualstudio.com/) is an lightning fast FREE open-source editor designed by [Microsoft](https://www.microsoft.com/en-us/) with developers in mind. Visual Studio code allows developers to easily apply the edit-build-debug cycle, resulting in more productivity on your ideas.
 
-This homework is graded based on the following criteria: 
+[Visual Studio Code](https://code.visualstudio.com/) brings all that you need as a developer, such as: debugging, instant editing results, customization specifically designed for your preference, hundreds of languages, extensions, version control, and more all at your fingertips!
 
-### Technical Acceptance Criteria: 40%
+##### GitHub/Git
 
-* Satisfies all of the above acceptance criteria plus the following:
+In order to make effective changes to the website both [Git](https://gitforwindows.org/) and [GitHub](https://github.com/) were used in synchronization to push commits of the latest updated version. 
 
-  * The homework should not produce any errors in the console when you inspect it using Chrome DevTools.
-
-### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository that contains application code.
-
-### Application Quality: 15%
-
-* Application user experience is intuitive and easy to navigate.
-
-* Application user interface style is clean and polished.
-
-* Application resembles the mock-up functionality provided in the homework instructions.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality README file with description, screenshot, and link to deployed application.
+![](file:///C:\Users\lexc2\OneDrive\Desktop\Homework\Password-Generator\Assets\githubgitbash.png)
 
 
-## Review
+Git is version control system which allows multiple users to make changes to one single repository.
 
-You are required to submit the following for review:
+GitHub is a corporation which provides hosting for version control Git and software development. [GitHub Docs ](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/managing-user-account-settings) provides all needs for setting up your GitHub and answering problem-solving issues you may come across while using GitHub.
 
-* The URL of the deployed application.
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+# Contribution
+Feel free to contribute to this project in any of the following ways: 
+* [Submit bug and feature requests](https://github.com/lexcraw4d/Password-Generator/issues)
+* [Review Source Code Changes](https://github.com/lexcraw4d/Password-Generator/pulls) and make pull requests from typos to content
+* For specific concerns that do not meet the above please do not hesitate to reach out to me via [My GitHub](https://github.com/lexcraw4d).
 
-- - -
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+If you are interested in fixing issues directly to the code base, please reference the [How to Contribute](https://github.com/microsoft/vscode/wiki/How-to-Contribute) article.
+
+
+
+# License
+
+Copyright (c) 2020 Lexie Crawford
+
+Licensed under the [MIT License](https://github.com/lexcraw4d/SEO/blob/master/LICENSE)
+
+
+
