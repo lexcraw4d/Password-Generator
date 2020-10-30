@@ -26,14 +26,13 @@ THEN the password is either displayed in an alert or written to the page.
 ```
 
 This source code is available to everyone under the standard [MIT License](https://github.com/microsoft/vscode/blob/master/LICENSE.txt).
-![Screen shot of the Password Generator created ](file:///C:\Users\lexc2\OneDrive\Desktop\Homework\Password-Generator\Assets\password.jpg)
-
+![Screen shot of the Password Generator created ] ![](Assets/password.jpg)
 # Installation
 To install please visit [my repository](https://github.com/lexcraw4d/Password-Generator) and look at the uploaded files via GitHub Deployment.
 
 # Usage
 ##### Visual Studio Code
-![](file:///C:\Users\lexc2\OneDrive\Desktop\Homework\Password-Generator\Assets\VSC.jpg)
+![](Assets/VSC.jpg)
 Visual Studio Code (VS) was used to edit and improve the functionality of the given Password Generator. 
 
 [Visual Studio Code](https://code.visualstudio.com/) is an lightning fast FREE open-source editor designed by [Microsoft](https://www.microsoft.com/en-us/) with developers in mind. Visual Studio code allows developers to easily apply the edit-build-debug cycle, resulting in more productivity on your ideas.
@@ -44,7 +43,7 @@ Visual Studio Code (VS) was used to edit and improve the functionality of the gi
 
 In order to make effective changes to the website both [Git](https://gitforwindows.org/) and [GitHub](https://github.com/) were used in synchronization to push commits of the latest updated version. 
 
-![](file:///C:\Users\lexc2\OneDrive\Desktop\Homework\Password-Generator\Assets\githubgitbash.png)
+![](Assets/githubgitbash.png)
 
 
 Git is version control system which allows multiple users to make changes to one single repository.
